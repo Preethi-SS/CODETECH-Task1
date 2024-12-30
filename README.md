@@ -43,4 +43,9 @@ The objective of this project is to develop a functional Calculator Application 
 3. Open the project in any Java IDE.
 4. Run the `Calculator` class to launch the application.
 
+## Output
+
+![claculator image (java)](https://github.com/user-attachments/assets/f12db814-e0f9-4578-8e49-831ff8db148a)
+
+
 
